@@ -1,4 +1,7 @@
 # MW-WZ-Internal
+
+EDUCATIONAL PERPOSES ONLY NOT INDENDED TO BE USED
+
 Outdated MW/WZ Cheat With Menu
 
 A cheat for modern warfare (warzone) game mode. Expect shit code. But it works
