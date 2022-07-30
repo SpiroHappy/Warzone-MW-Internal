@@ -15,6 +15,9 @@
 #include"customstyle.h"
 #include "unlockAll.h"
 
+#include "imgui/imgui_impl_dx12.h"
+#include "imgui/imgui_impl_win32.h"
+
 typedef long(__fastcall* Present)(IDXGISwapChain*, UINT, UINT);
 static Present ori_present = NULL;
 void WndProc_hk();
